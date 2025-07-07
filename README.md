@@ -8,7 +8,7 @@ A Python package for loading, processing, and visualizing NYC 311 noise complain
 
 ├── data/
 
-│ ├── raw/ ← 100 rows downloaded from NYC Open Data
+│ ├── raw/ ← 10000 rows downloaded from NYC Open Data
 
 │ ├── processed/ ← Processed data
 
